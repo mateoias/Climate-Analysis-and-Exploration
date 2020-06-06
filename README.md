@@ -9,11 +9,12 @@ Finally I created a humidity heatmap for the cities and ploted hotels that were 
 * Time
 * Matplotlib
 * Scipy.stats
- The first set of plots show the relationships between latitude and climate in terms of temperature, humidity,cloudiness and wind speed. For example the following plot shows that there is a visible linear relationship between latitude and temperature, especially for the northern hemisphere.
+
+#### Scatterplots
+The first set of plots show the relationships between latitude and climate in terms of temperature, humidity,cloudiness and wind speed. For example the following plot shows that there is a visible linear relationship between latitude and temperature, especially for the northern hemisphere.
 
 ![Temperature vs Latitude Plot](/output_data/Temp_Lat.png)
-
+#### Linear Regression
 The next set of plots show a linear regression of the first plots to quantify the relationships more exactly. For example, this plot shows a linear regression for the reationship between max temperature and latitude in the northern hemisphere
 
-! [Linear regression](/output_data/linear_regression_of_Max_Temperatures_North_vs_Latitude.png)
-
+![Linear regression](https://github.com/mateoias/Climate-Analysis-and-Exploration/blob/master/output_data/linear%20regression%20of%20Max%20Temperature%20North%20vs%20Latitude.png)
