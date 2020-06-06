@@ -15,4 +15,5 @@ Finally I created a humidity heatmap for the cities and ploted hotels that were 
 
 The next set of plots show a linear regression of the first plots to quantify the relationships more exactly. For example, this plot shows a linear regression for the reationship between max temperature and latitude in the northern hemisphere
 
-! [Linear regression](/output_data/Hum_Lat.png)
+! [Linear regression](/output_data/linear_regression_of_Max_Temperatures_North_vs_Latitude.png)
+
