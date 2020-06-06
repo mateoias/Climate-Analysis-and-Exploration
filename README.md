@@ -21,7 +21,8 @@ The next set of plots show a linear regression of the first plots to quantify th
 
 #### Google API and Layers
 The final question I looked at was to see which cities I might be interested in visiting based on weather conditions. The first layer is a humidity heat map from google.
-![Humidity Heat Map](   )
+![Humidity Heat Map](https://github.com/mateoias/Bootcamp-Work/blob/master/07_API/output_data/humidity_map.png  )
 
 The second Layer is a list of hotels that are in cities with suitable weather conditions for me. Some of the locations had no hotels within 5000 meters so they have been removed.
-![Hotel Map ( )
+![Hotel Map}
+(https://github.com/mateoias/Bootcamp-Work/blob/master/07_API/output_data/Top_Hotels_Map.png )
