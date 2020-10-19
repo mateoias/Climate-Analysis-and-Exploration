@@ -27,9 +27,8 @@ is strongly affected by latitude is valid.
 
 ##### How can we map hotels that are located in climate suitable for a vacation?
 
-The final question I looked at was to see which cities I might be interested in visiting based on weather conditions. I used layered google maps and the first layer is a humidity heat map.
+The final question I looked at was to see which cities I might be interested in visiting based on weather conditions. I used layered google maps; the first layer is a heat map showing the humidity for all of the cities that I investigated..
 ![Humidity Heat Map](https://github.com/mateoias/Bootcamp-Work/blob/master/07_API/output_data/humidity_map.png  )
 
-The second layer is a list of hotels that are in cities with suitable weather conditions for me. Some of the locations had no hotels within 5000 meters so they have been removed.
-![Hotel Map]
-(https://github.com/mateoias/Bootcamp-Work/blob/master/07_API/output_data/Top_Hotels_Map.png )
+The second layer of the map shows hotels that are in cities with suitable weather conditions for my vacation. Some of the cities with suitable climate had no hotels within 5000 meters so they have been removed.
+![Hotel Map](https://github.com/mateoias/Bootcamp-Work/blob/master/07_API/output_data/Top_Hotels_Map.png )
