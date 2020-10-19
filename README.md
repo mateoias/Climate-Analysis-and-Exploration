@@ -12,19 +12,21 @@ Finally I created a humidity heatmap for the cities and ploted hotels that were 
 * Matplotlib
 * Scipy.stats
 
-#### Scatterplots
-The first set of plots show the relationships between latitude and climate in terms of temperature, humidity, cloudiness and wind speed. For example the following plot shows that there is a visible linear relationship between latitude and temperature, especially for the northern hemisphere.
+#### Questions that we addressed
+
+##### Is there a clear relationship between latitude and climate?
+I first created a set of scatterplots showing the relationships between latitude and climate in terms of temperature, humidity, cloudiness and wind speed. For example the following plot shows that there is a visible linear relationship between latitude and temperature, especially for the northern hemisphere.
 
 ![Temperature vs Latitude Plot](/output_data/Temp_Lat.png)
 #### Linear Regression
-The next set of plots show a linear regression of the first plots to quantify the relationships more exactly. For example, this plot shows a linear regression for the reationship between max temperature and latitude in the northern hemisphere. The first two plots show the relationship between temperature and latitude. There is an evident
-visual correlation and the r**2 value of .62 gives a high confidence to our intuition that temperature
+Next I crteated a set of plots showing a linear regression of the first plots to quantify the relationships more exactly. For example, this plot shows a linear regression for the reationship between max temperature and latitude in the northern hemisphere. The first two plots show the relationship between temperature and latitude. There is an evident visual correlation and the r**2 value of .62 gives a high confidence to our intuition that temperature
 is strongly affected by latitude is valid.
 
 
 ![Linear regression](https://github.com/mateoias/Climate-Analysis-and-Exploration/blob/master/output_data/linear%20regression%20of%20Max%20Temperature%20North%20vs%20Latitude.png)
 
-#### Google API and Layers
+##### How can we map hotels that are located in climate suitable for a vacation?
+
 The final question I looked at was to see which cities I might be interested in visiting based on weather conditions. I used layered google maps and the first layer is a humidity heat map.
 ![Humidity Heat Map](https://github.com/mateoias/Bootcamp-Work/blob/master/07_API/output_data/humidity_map.png  )
 
