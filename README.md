@@ -1,7 +1,7 @@
 # Climate-Analysis-and-Exploration
 Climate Analysis and Exploration: Note that the code will not run as I removed the google API key
 
-![test]test.png
+![test](/test.png)
 
 
 This is a solo project to analyze the effects of latitude on climate. For the project, I created a Python script to import the weather from a random sample of 500+ cities across the world. I created scatterplots to visualize the relationship between latitude and aspects of climate, including temperature, humidity, cloudiness and wind speed.
